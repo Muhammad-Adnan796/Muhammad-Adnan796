@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=React+Native+Expert+%F0%9F%93%B1;MERN+Stack+Developer+%F0%9F%92%BB;Building+Amazing+Apps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /> -->
 
 ## 🚀 **About Me**
 
